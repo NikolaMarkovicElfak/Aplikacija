@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/autour_one</item>
+        <item>@font/bellota_light</item>
+        <item>@font/marcellus</item>
+        <item>@font/marck_script</item>
+        <item>@font/montserrat_alternates_light</item>
+        <item>@font/oleo_script</item>
+        <item>@font/stylish</item>
+    </array>
+</resources>

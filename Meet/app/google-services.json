@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "738998347037",
+    "firebase_url": "https://meet-d4b4c-default-rtdb.firebaseio.com",
+    "project_id": "meet-d4b4c",
+    "storage_bucket": "meet-d4b4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738998347037:android:e8b10ca83cf5b75cd66df4",
+        "android_client_info": {
+          "package_name": "com.example.meet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeDfCkxuB5iTNOy6ka2TKZP4c3EuJrNF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
